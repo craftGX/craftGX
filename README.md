@@ -39,5 +39,8 @@ Languages and Tools :
     Code-->Sleep;
  ```
  
+ My statistics :
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=craftGX)](https://github.com/anuraghazra/github-readme-stats)
+ 
  
     
