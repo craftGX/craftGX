@@ -39,7 +39,7 @@ Languages and Tools :
     Code-->Sleep;
  ```
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=craftGX)](https://github.com/anuraghazra/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=craftGX&show_icons=true&theme=radical)
  
  
     
